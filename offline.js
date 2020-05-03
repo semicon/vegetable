@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1588523953,
+	"version": 1588546552,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,10 @@
 		"images/bggameover-sheet0.png",
 		"images/blood-sheet0.png",
 		"images/popup-sheet0.png",
+		"media/quiet-solitude.m4a",
+		"media/quiet-solitude.ogg",
+		"media/mario_bros_jump.m4a",
+		"media/mario_bros_jump.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
