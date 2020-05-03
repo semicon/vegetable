@@ -1,0 +1,31 @@
+﻿{
+	"version": 1588523953,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/stage-sheet0.png",
+		"images/player-sheet0.png",
+		"images/blade1-sheet0.png",
+		"images/blade2-sheet0.png",
+		"images/vegetable-sheet0.png",
+		"images/vegetable-sheet1.png",
+		"images/vegetable-sheet2.png",
+		"images/bggame-sheet0.png",
+		"images/nut-sheet0.png",
+		"images/bgstart-sheet0.png",
+		"images/play-sheet0.png",
+		"images/sound-sheet0.png",
+		"images/sound-sheet1.png",
+		"images/bggameover-sheet0.png",
+		"images/blood-sheet0.png",
+		"images/popup-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
